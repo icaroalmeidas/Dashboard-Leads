@@ -12,16 +12,19 @@ O processo de criação de um dashboard de captação de leads usando a modelage
 |:-------------------:|
 |   ![image](https://github.com/icaroalmeidas/PowerBI/assets/106759439/7aa6ee5c-22ac-476b-8bfe-7d847bca01b3)    |
 
-Nesta primeira página, encontramos um indicador fundamental: a Taxa de Eficiência. Esse indicador nos mostra a porcentagem de leads aproveitados em relação à quantidade total de leads captados. Com essa métrica em mãos, podemos avaliar o desempenho das nossas campanhas e identificar áreas para otimização. Podemos ver 4 gráficos onde podemos ver algumas relações importantes.
+## Primeira página 
+Encontramos um indicador fundamental: a Taxa de Eficiência. Esse indicador nos mostra a porcentagem de leads aproveitados em relação à quantidade total de leads captados. Com essa métrica em mãos, podemos avaliar o desempenho das nossas campanhas e identificar áreas para otimização. Podemos ver 4 gráficos onde podemos ver algumas relações importantes.
 |                     |
 |:-------------------:|
 |   ![image](https://github.com/icaroalmeidas/PowerBI/assets/106759439/a956153e-fcaf-491d-b778-2666fe2a6d07)   |
 
-Na segunda página, encontramos informações importantes sobre a qualidade dos leads. Podemos visualizar a quantidade de leads inválidos e repetidos, o que nos auxilia na identificação de possíveis problemas de segmentação ou fontes de dados inconsistentes. Essa visão detalhada nos ajuda a manter a base de dados organizada e nos traz insigths de que devemos traçar estratégias para minimizar leads repetidos e invalidados.  Nos gráficos podemos ver relações importantes como a Quantiade de leads por equipe que nos ajuda e acompanhar o desempenho do time.
+## Segunda página
+Encontramos informações importantes sobre a qualidade dos leads. Podemos visualizar a quantidade de leads inválidos e repetidos, o que nos auxilia na identificação de possíveis problemas de segmentação ou fontes de dados inconsistentes. Essa visão detalhada nos ajuda a manter a base de dados organizada e nos traz insigths de que devemos traçar estratégias para minimizar leads repetidos e invalidados.  Nos gráficos podemos ver relações importantes como a Quantiade de leads por equipe que nos ajuda e acompanhar o desempenho do time.
 |                     |
 |:-------------------:|
 |   ![image](https://github.com/icaroalmeidas/PowerBI/assets/106759439/21621090-a430-4c4b-ae7f-4f83a2b56bb5)  |
 
+## Terceira página
 Nessa página, podemos encontrar informações importantes sobre o desempenho das nossas vendas. Temos uma visão geral do faturamento, investimento e retorno sobre investimento (ROI). Essas informações nos permitem avaliar a eficácia de nossas campanhas em termos de retorno financeiro.
 
 Além disso, podemos analisar as métricas relacionadas às vendas, como quantidade de leads aproveitados, quantidade de vendas e ticket médio. Com esses dados em mãos, podemos identificar tendências e relacionar o desempenho das vendas com diferentes canais de aquisição.
@@ -32,6 +35,7 @@ Nos gráficos, podemos visualizar a quantidade de vendas por dia e como ela se r
 |:-------------------:|
 |   ![image](https://github.com/icaroalmeidas/PowerBI/assets/106759439/cf2e2c09-8a1e-4398-9512-c064e134a6dc)  |
 
+## Simulador de Faturamento
 Por fim, na quarta página, temos um simulador de faturamento com base nos dados anteriores. Esse recurso nos ajuda a projetar receitas futuras com base no desempenho passado. Com essa projeção, podemos tomar decisões financeiras mais embasadas e direcionar nossos investimentos de forma estratégica.
 
 |                     |
